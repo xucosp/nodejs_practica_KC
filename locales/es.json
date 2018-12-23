@@ -1,0 +1,19 @@
+{
+    "Title" : "Lista de anuncios",
+    "Title2" : "Lista de tags",
+    "Title3" : "Pagina Login",
+    "User created" : "Usuario creado correctamente",
+    "User not exist": "Usuario no esta en el sistema",
+    "Sucessful access": "Conectado con TOKEN: ",
+    "Nombre empty": "Nombre no puede venir vacio",
+    "Email empty": "email no puede venir vacio",
+    "Clave empty": "clave no puede venir vacio",
+    "401": "No autorizado",
+    "Error Token": "Token erroneo",
+    "Empty Token": "Token no enviado",
+    "Invalid Credentials": "Credenciales no validas",
+    "409": "Conflicto",
+    "User Exists": "Email ya existente en el sistema",
+    "500": "Internal Server Error",
+    "Fatal Error": "Fatal Error"  
+}

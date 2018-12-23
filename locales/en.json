@@ -1,0 +1,19 @@
+{
+    "Title" : "Advertisements list",
+    "Title2" : "Tags list",
+    "Title3" : "Login page",
+    "User created" : "User registered",
+    "User not exist": "User not in the system",
+    "Sucessful access": "Connected with TOKEN: ",
+    "Nombre empty": "Nombre cannot be empty",
+    "Email empty": "email cannot be empty",
+    "Clave empty": "clave cannot be empty",
+    "401": "Unauthorized",
+    "Error Token": "Wrong Token",
+    "Empty Token": "Empty Token",
+    "Invalid Credentials": "Invalid Credentials",
+    "409": "Conflict",
+    "User Exists": "Email already exists in System",
+    "500": "Internal Server Error",
+    "Fatal Error": "Fatal Error"  
+}

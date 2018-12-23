@@ -1,0 +1,53 @@
+{
+    "anuncios" : [
+      {
+        "nombre" : "Mesa Salon",
+        "venta" : true,
+        "precio" : 500.00,
+        "foto" : "/images/mesa.jpg",
+        "tags" : ["lifestyle", "home"]
+      },
+      {
+        "nombre" : "Plastilina",
+        "venta" : false,
+        "precio" : 80,
+        "foto" : "/images/plastilina.jpg",
+        "tags" : ["lifestyle", "baby"]
+      },
+      {
+        "nombre" : "iPhone X",
+        "venta" : false,
+        "precio" : 700,
+        "foto" : "/images/iphoneX.png",
+        "tags" : ["lifestyle", "mobile"]
+      },
+      {
+        "nombre" : "Bicicleta",
+        "venta" : true,
+        "precio" : 120,
+        "foto" : "/images/bicicleta.png",
+        "tags" : ["lifestyle", "sport"]
+      },
+      {
+        "nombre" : "Libro Harry Potter",
+        "venta" : true,
+        "precio" : 12,
+        "foto" : "/images/libro.jpg",
+        "tags" : ["lifestyle", "book", "children"]
+      },
+      {
+        "nombre" : "Bicicleta Mountain",
+        "venta" : true,
+        "precio" : 230,
+        "foto" : "/images/bici.jpg",
+        "tags" : ["lifestyle", "motor"]
+      }
+    ],
+    "usuarios" : [
+      {
+        "nombre": "myuser",
+        "email": "myuser@myemail.com",
+        "clave": "mypass"
+      }
+    ]
+  }

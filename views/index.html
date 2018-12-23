@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+  
+    <h2>TABLA DE DATOS</h2>
+    <% articulos.forEach(articulo => { %>
+      <p><%= articulo.nombre + ' ' + articulo.venta + ' ' + articulo.precio + ' ' + articulo.foto + ' ' + articulo.tags %></p>
+    <% }) %>
+
+    <% include piedepagina.html %>
+  </body>
+</html>
