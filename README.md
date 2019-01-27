@@ -1,12 +1,23 @@
 # Nodepop
 
+http://www.xucosp.com - sustituir localhost en las opciones de la API (abajo) para poder ejecutar esta aplicación en mi servidor.
+http://63.34.174.119/ - IP del servidor donde podra verse la web de bootstrap descargada
+
+Requisitos del servidor que no instala npm install - bcrypt, python y mongodb-server
+
 Configurar variables de entorno. Hacer una copia del fichero .env.example a .env y modificar los valores de configuración.
+
+Recuperamos modulos dependientes:
+
+```shell
+npm install
+```
 
 Inicializar la BBDD para añadir articulos:
 
-...shell
+```shell
 npm run installdb
-...
+```
 
 Arrancar la aplicación en modo desarrollo:
 
